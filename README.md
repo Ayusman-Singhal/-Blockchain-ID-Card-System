@@ -1,14 +1,3 @@
-# Blockchain ID Card System
-
-A secure, decentralized digital identity management system built on blockchain technology.
-
-## Table of Contents
-- [Project Title](#project-title)
-- [Project Description](#project-description)
-- [Project Vision](#project-vision)
-- [Future Scope](#future-scope)
-- [Key Features](#key-features)
-
 ## Project Title
 **Blockchain ID Card System**
 
