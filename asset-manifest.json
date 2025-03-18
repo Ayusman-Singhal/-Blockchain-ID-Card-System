@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blockchain-ID-Card-System/static/css/main.be09da0e.css",
+    "main.js": "/Blockchain-ID-Card-System/static/js/main.e12c769d.js",
+    "index.html": "/Blockchain-ID-Card-System/index.html",
+    "main.be09da0e.css.map": "/Blockchain-ID-Card-System/static/css/main.be09da0e.css.map",
+    "main.e12c769d.js.map": "/Blockchain-ID-Card-System/static/js/main.e12c769d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be09da0e.css",
+    "static/js/main.e12c769d.js"
+  ]
+}
